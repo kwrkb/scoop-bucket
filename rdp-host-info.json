@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kwrkb/rdp-host-info/releases/download/v0.2.0/rdp-host-info_0.2.0_windows_amd64.zip",
+            "bin": [
+                "rdp-host-info.exe"
+            ],
+            "hash": "2c5c6475c4627503a507ceee4f2cd6160bc9717778afafc7eb1044216e264219"
+        },
+        "arm64": {
+            "url": "https://github.com/kwrkb/rdp-host-info/releases/download/v0.2.0/rdp-host-info_0.2.0_windows_arm64.zip",
+            "bin": [
+                "rdp-host-info.exe"
+            ],
+            "hash": "37f6959dd6cde53eafc5d431fd818df11ae444ad4ed06fffc692fcc209a2d46b"
+        }
+    },
+    "homepage": "https://github.com/kwrkb/rdp-host-info",
+    "license": "MIT",
+    "description": "Windows CLI that shows Remote Desktop connection info and host readiness at a glance"
+}
