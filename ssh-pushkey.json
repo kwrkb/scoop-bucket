@@ -1,12 +1,12 @@
 {
-    "version": "1.8.1",
+    "version": "1.8.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kwrkb/ssh-pushkey/releases/download/v1.8.1/ssh-pushkey_windows_amd64.zip",
+            "url": "https://github.com/kwrkb/ssh-pushkey/releases/download/v1.8.2/ssh-pushkey_windows_amd64.zip",
             "bin": [
                 "ssh-pushkey.exe"
             ],
-            "hash": "8dfcfb6cbd138717fb5e6e7d012f6998001343238c4e2f7339cb9e9b1e475adb"
+            "hash": "feb9c704148a7923a24c49ed6f8b445276f8e7a4fd40f8d1d8d13d9b22b02be8"
         }
     },
     "homepage": "https://github.com/kwrkb/ssh-pushkey",
