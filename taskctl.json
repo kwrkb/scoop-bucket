@@ -1,0 +1,23 @@
+{
+  "version": "2.0.2",
+  "description": "A diagnostic tool for Windows Task Scheduler that pinpoints why a task failed (or is likely to fail) and tells you what to do next.",
+  "homepage": "https://github.com/kwrkb/taskctl",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/kwrkb/taskctl/releases/download/v2.0.2/taskctl-v2.0.2-win-x64.zip",
+      "bin": "taskctl.exe",
+      "hash": "a12b06b7191ad554f6c839cc9135e0f46c4cc62f680faf6859452a64e48c1df0"
+    }
+  },
+  "checkver": {
+    "github": "https://github.com/kwrkb/taskctl"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/kwrkb/taskctl/releases/download/v$version/taskctl-v$version-win-x64.zip"
+      }
+    }
+  }
+}
