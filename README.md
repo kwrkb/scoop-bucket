@@ -12,7 +12,8 @@ scoop install ssh-pushkey
 | Package | Description |
 |---------|-------------|
 | [ssh-pushkey](https://github.com/kwrkb/ssh-pushkey) | An `ssh-copy-id` alternative for Windows OpenSSH servers |
+| [taskctl](https://github.com/kwrkb/taskctl) | Diagnoses why a Windows Task Scheduler task failed and tells you what to do next |
 
-Manifests in this repository are generated automatically by
-[GoReleaser](https://goreleaser.com/) when a package is released. Do not edit
-them by hand — changes belong in the source repository.
+Manifests in this repository are generated automatically by each project's
+release workflow when a package is released. Do not edit them by hand —
+changes belong in the source repository.
