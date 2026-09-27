@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kwrkb/rdp-host-info/releases/download/v0.2.0/rdp-host-info_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/kwrkb/rdp-host-info/releases/download/v0.2.1/rdp-host-info_0.2.1_windows_amd64.zip",
             "bin": [
                 "rdp-host-info.exe"
             ],
-            "hash": "2c5c6475c4627503a507ceee4f2cd6160bc9717778afafc7eb1044216e264219"
+            "hash": "6a666e746e683e4574b797b672d1476cff53eeca2a3dd3904ebb8aed30d0b823"
         },
         "arm64": {
-            "url": "https://github.com/kwrkb/rdp-host-info/releases/download/v0.2.0/rdp-host-info_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/kwrkb/rdp-host-info/releases/download/v0.2.1/rdp-host-info_0.2.1_windows_arm64.zip",
             "bin": [
                 "rdp-host-info.exe"
             ],
-            "hash": "37f6959dd6cde53eafc5d431fd818df11ae444ad4ed06fffc692fcc209a2d46b"
+            "hash": "3d57771fa7888d22dc206022e35c6d1f9b3a401d2baa83f305bab4f7c45824b4"
         }
     },
     "homepage": "https://github.com/kwrkb/rdp-host-info",
